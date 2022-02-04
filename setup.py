@@ -8,7 +8,7 @@ setup(
   author = 'Hoewon Kim',
   author_email = 'hoewon.kim@gmail.com',
   url = 'https://github.com/danielhwkim/Hero',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/danielhwkim/Hero/archive/hero-0_1.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/danielhwkim/Hero/archive/refs/tags/v_0_1.tar.gz',    # I explain this later on
   keywords = ['hero'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'argparse',
